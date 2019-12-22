@@ -1,5 +1,4 @@
 from imageai.Detection.Custom import DetectionModelTrainer
-
 trainer = DetectionModelTrainer()
 trainer.setModelTypeAsYOLOv3()
 trainer.setDataDirectory(data_directory=r"Z:\DeepLabCut\misc\tensorflow\ImageAI\project\data")

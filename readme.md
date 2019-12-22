@@ -3,6 +3,7 @@
 * Download [images with annotations from OSF](https://osf.io/a7gwe/) - 1846 images used for training, validated on 518 images 
 * Download [weights from OSF](https://osf.io/2hb78/)
 * Video example on [YouTube](https://youtu.be/bmdeFhnwl7g)
+
 ![alt text](images/yolo.gif)
 
 
